@@ -1,7 +1,0 @@
-#برنامه ای که دو عدد را خوانده حاصل جمع آنها را نمایش دهد ((هدف این برنامه آشنایی با دستورات ورودی خروجی و عملگر است .))
-a=input("please Enter number 1:")
-a= int(a)
-b=input("please enter number 2:")
-b= int(b)
-print(a+b)
-print(a, '+',b,'=',a+b)
