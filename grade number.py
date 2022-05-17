@@ -8,4 +8,4 @@ elif 81 <= grade <= 90:
 elif 91 <= grade <= 100:
     print("Excellent")
 else:
-    print("Invalid grade")
+    print("Invalid grade..")
